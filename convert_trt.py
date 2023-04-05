@@ -39,6 +39,7 @@ def representative_data_gen():
   batched_input = tf.constant(batched_input)
   yield (batched_input,)
 
+
 def save_trt():
 
   if FLAGS.quantize_mode == 'int8':

@@ -108,7 +108,6 @@ Now play around with [license_plate_recognizer.py](https://github.com/Mann1904/A
 
 <a name="ocr"/>
 
-
 ## YOLOv4 Using TensorFlow Lite (.tflite model)
 Can also implement YOLOv4 using TensorFlow Lite. TensorFlow Lite is a much smaller model and perfect for mobile or edge devices (raspberry pi, etc).
 ```bash
